@@ -14,8 +14,17 @@ body {
 // User Authentication
 li.user-auth {
   display: flex;
-  flex-direction: row;
   align-items: center;
+}
+
+.user-auth-form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.form-bottom-margin {
+  margin-bottom: 10px;
 }
 
 // Bootstrap adjustments

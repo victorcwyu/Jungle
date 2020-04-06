@@ -1,11 +1,11 @@
-<h1>Signup!</h1>
+<h1>Sign up!</h1>
 
-<%= form_for :user, url: '/users' do |f| %>
+  <%= form_for :user, url: '/users', html: {class: "user-auth-form"} do |f| %>
 
-  Name: <%= f.text_field :name %>
-  Email: <%= f.text_field :email %>
-  Password: <%= f.password_field :password %>
-  Password Confirmation: <%= f.password_field :password_confirmation %>
-  <%= f.submit "Submit" %>
+    Name: <%= f.text_field :name, class: 'form-bottom-margin' %>
+    Email: <%= f.text_field :email, class: 'form-bottom-margin' %>
+    Password: <%= f.password_field :password, class: 'form-bottom-margin' %>
+    Password Confirmation: <%= f.password_field :password_confirmation, class: 'form-bottom-margin' %>
+    <%= f.submit "Submit", class: 'btn btn-primary' %>
 
-<% end %>
+  <% end %>

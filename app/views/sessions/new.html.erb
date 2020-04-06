@@ -1,9 +1,9 @@
-<h1>Login</h1>
+  <h1>Login</h1>
 
-<%= form_tag '/login' do %>
+  <%= form_tag '/login', class:"user-auth-form" do %>
 
-  Email: <%= text_field_tag :email %>
-  Password: <%= password_field_tag :password %>
-  <%= submit_tag "Submit" %>
+    Email: <%= text_field_tag :email, "", class: 'form-bottom-margin' %>
+    Password: <%= password_field_tag :password, "", class: 'form-bottom-margin' %>
+    <%= submit_tag "Submit", class: 'btn btn-primary' %>
 
-<% end %>
+  <% end %>
