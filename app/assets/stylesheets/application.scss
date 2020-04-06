@@ -11,6 +11,13 @@ body {
   padding-top: 70px;
 }
 
+// User Authentication
+li.user-auth {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 // Bootstrap adjustments
 form.button_to {
   display: inline;
