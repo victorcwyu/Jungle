@@ -1,8 +1,8 @@
 <h1>Sign up!</h1>
 
   <%= form_for :user, url: '/users', html: {class: "user-auth-form"} do |f| %>
-
-    Name: <%= f.text_field :name, class: 'form-bottom-margin' %>
+    First name: <%= f.text_field :first_name, class: 'form-bottom-margin' %>
+    Last name: <%= f.text_field :last_name, class: 'form-bottom-margin' %>    
     Email: <%= f.text_field :email, class: 'form-bottom-margin' %>
     Password: <%= f.password_field :password, class: 'form-bottom-margin' %>
     Password Confirmation: <%= f.password_field :password_confirmation, class: 'form-bottom-margin' %>
