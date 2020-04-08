@@ -10,7 +10,7 @@ The Stripe API ws used to simulate credit card payments.
 
 !["Screenshot of home page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.31%20AM.png?raw=true)
 
-<!-- !["Screenshot of product details page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.31%20AM.png?raw=true) -->
+!["Screenshot of product details page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.25.59%20AM.png?raw=true)
 
 !["Screenshot of cart page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.46%20AM.png?raw=true)
 
