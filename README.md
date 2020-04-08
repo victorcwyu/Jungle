@@ -1,7 +1,8 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
-
+Jungle allows a user to register/login, add items to their cart and checkout.
+The Stripe API ws used to simulate credit card payments.
 
 ## Setup
 
