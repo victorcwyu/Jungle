@@ -6,6 +6,10 @@ Jungle allows a user to register/login, add items to their cart and checkout.
 
 The Stripe API ws used to simulate credit card payments.
 
+## Screenshots
+
+!["Screenshot of home page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.31%20AM.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
