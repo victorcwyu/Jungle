@@ -15,9 +15,10 @@ RSpec.feature "ProductDetails", type: :feature, js: true do
     end
   end
 
-  scenario "They see product details" do
+  scenario "They see cart count" do
     visit root_path
-    first('.product').click_link('Details')
-    expect(page).to have_css('.products-show')
+    first('.product').click_button('Add')
+    expect(page).to have_text('My Cart (1)')
+    save_screenshot
   end
 end
