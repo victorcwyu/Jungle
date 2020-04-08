@@ -10,6 +10,14 @@ The Stripe API ws used to simulate credit card payments.
 
 !["Screenshot of home page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.31%20AM.png?raw=true)
 
+<!-- !["Screenshot of product details page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.31%20AM.png?raw=true) -->
+
+!["Screenshot of cart page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.46%20AM.png?raw=true)
+
+!["Screenshot of Stripe API credit card payment simulation"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.17.10%20AM.png?raw=true)
+
+!["Screenshot successful order page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.17.19%20AM.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
