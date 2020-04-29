@@ -1,12 +1,14 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+## About this project
 
-Jungle allows a user to register/login, add items to their cart and checkout.
+Jungle is a mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+
+This application allows a user to register/login, add items to their cart and checkout.
 
 The Stripe API was used to simulate credit card payments.
 
-## Screenshots
+## Preview
 
 !["Screenshot of home page"](https://github.com/victorcwyu/jungle-rails/blob/master/docs/Screen%20Shot%202020-04-08%20at%202.16.31%20AM.png?raw=true)
 
